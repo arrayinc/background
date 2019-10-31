@@ -30,7 +30,6 @@ section {
     display: flex;
     align-items: center;
     box-shadow: 0 5px 2px -2px gray;
-    background-image: url('./img/surf-bus.jpg');
 }
 
 .hero.hero-large {
